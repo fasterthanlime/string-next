@@ -1,0 +1,7 @@
+demo
+*.exe
+*.dSYM
+
+rock_tmp
+.libs
+.sam-cache
